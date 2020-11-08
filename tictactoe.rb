@@ -155,5 +155,5 @@ class Board
   end
 end
 
-t = TicTacToe.new
-t.play
+new_game = TicTacToe.new
+new_game.play
